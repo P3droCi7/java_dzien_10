@@ -11,16 +11,13 @@ public class liczbaPierwsza {
 
     public static int returnIfPrime(int a) {
 
-        for (int i = 1; i <= a; i++) {
-            if (a%i == 0){
-              return 0;
+        for (int i = 2; i < a; i++) {
+            if (a % i == 0) {
+                return 0;
             }
-            else if(a / a == 1 && a / 1 == a) {
-                return a;
-            }
+            return a;
         }
-        return 0;
-
+        return 32;
     }
 }
 

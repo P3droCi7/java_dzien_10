@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc2d2e61-dc47-4c4f-9c88-51242973af40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/java_dzien_10/NWD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_dzien_10/liczbaPierwsza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_dzien_10/liczbaPierwsza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liczbaPierwsza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/liczbaPierwsza.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,13 +33,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1272" />
+          <entry key="java" value="1370" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1272" />
+          <entry key="JAVA" value="1370" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
@@ -48,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/liczbaPierwsza.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -112,7 +114,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540120682688" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540121888630" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../sda-javapoz12-introduction-to-programming" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -201,6 +203,15 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
@@ -212,16 +223,16 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18389262" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32765958" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Messages" order="3" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32907802" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.39943343" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32907802" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -230,7 +241,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" visible="true" weight="0.2818792" />
+      <window_info anchor="right" id="Run" order="8" weight="0.2818792" />
     </layout>
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -268,8 +279,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/liczbaPierwsza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
