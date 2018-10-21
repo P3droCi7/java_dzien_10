@@ -12,9 +12,9 @@ public class NWW {
     }
 
 
-    public static double countNWW(int a, int b){
-    double wynik = (a*b)/(countNWD(a,b));
-    return wynik;
+    public static double countNWW(int a, int b) {
+        double wynik = (a * b) / (countNWD(a, b));
+        return wynik;
     }
 
 
@@ -23,7 +23,7 @@ public class NWW {
         if (b == 0) {
             return a;
         }
-        return countNWD(b, a%b);
+        return countNWD(b, a % b);
     }
 
 }
