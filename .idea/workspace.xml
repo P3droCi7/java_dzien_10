@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc2d2e61-dc47-4c4f-9c88-51242973af40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_dzien_10/liczbaPierwsza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_dzien_10/liczbaPierwsza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/liczbaPierwsza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/liczbaPierwsza.java" afterDir="false" />
-    </list>
+    <list default="true" id="dc2d2e61-dc47-4c4f-9c88-51242973af40" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,23 +19,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1370" />
+          <entry key="java" value="1839" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1370" />
+          <entry key="JAVA" value="1839" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
@@ -48,10 +44,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/liczbaPierwsza.java">
+        <entry file="file://$PROJECT_DIR$/src/rozbicieBanknotu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="119">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -74,6 +70,7 @@
         <option value="$PROJECT_DIR$/src/NWW.java" />
         <option value="$PROJECT_DIR$/src/NWD.java" />
         <option value="$PROJECT_DIR$/src/liczbaPierwsza.java" />
+        <option value="$PROJECT_DIR$/src/rozbicieBanknotu.java" />
       </list>
     </option>
   </component>
@@ -114,7 +111,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540121888630" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540126146195" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../sda-javapoz12-introduction-to-programming" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -133,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.liczbaPierwsza">
+  <component name="RunManager" selected="Application.rozbicieBanknotu">
     <configuration name="NWD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NWD" />
       <module name="java_dzien_10" />
@@ -155,13 +152,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="rozbicieBanknotu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozbicieBanknotu" />
+      <module name="java_dzien_10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.NWD" />
       <item itemvalue="Application.NWW" />
       <item itemvalue="Application.liczbaPierwsza" />
+      <item itemvalue="Application.rozbicieBanknotu" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.rozbicieBanknotu" />
         <item itemvalue="Application.liczbaPierwsza" />
         <item itemvalue="Application.NWW" />
         <item itemvalue="Application.NWD" />
@@ -241,7 +247,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.2818792" />
+      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.2818792" />
     </layout>
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -279,8 +285,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/liczbaPierwsza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rozbicieBanknotu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
